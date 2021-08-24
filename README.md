@@ -13,3 +13,4 @@
 - json-server
 - Axios
 - react-masonry
+- Jest & Enzyme
