@@ -12,3 +12,4 @@
 - Библиотека classnames
 - json-server
 - Axios
+- react-masonry
